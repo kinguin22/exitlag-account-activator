@@ -29,4 +29,8 @@ This script is created for educational purposes only, I am not responsible for t
 - It should activate the account and you will get free access to exitlag for 3 days.
 - Now simply login using the email in exitlag software that you have downloaded earlier.
 
+## Important:
+- Check issue <a href="https://github.com/gato-louco/exitlag-account-activator/issues/12">#12</a> if you get problem related to TEMP MAIL
+
+
 ## Have a nice day :)
