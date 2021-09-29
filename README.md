@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/53904508/128664596-e908f0d1-c222-47f4-8ce4-53d368e281cb.png">
 
 ## DISCLAIMER
-This script is created for educational purposes only, I am not responsible for the misuse of this product.
+This script was created for educational purposes only, I am not responsible for how this program is being used.
 
 ## REQUIREMENTS
 1. A Brain
@@ -18,11 +18,11 @@ This script is created for educational purposes only, I am not responsible for t
 1. Resets Trial (Unlimited usage)<br />
 2. Easy to Use.<br />
 
-## Note (How to use Exitlag Account Activator):
+## How to use Exitlag Account Activator:
 - Download and install <a href="https://www.python.org/downloads/">python</a> and <a href="https://exitlag.com">exitlag</a>.
 - Download <a href="https://github.com/gato-louco/exitlag-account-activator/blob/main/main.py">main.py</a> to your Downloads folder.
 - Create a account on exitlag with the password `gatolouco`
-- You can use this working <a href="https://mail.tm/en/">TEMP MAIL</a> to create temp mails for Exitlag.
+- You can use a TEMP MAIL or check <a href="https://github.com/gato-louco/exitlag-account-activator/issues/12">#12</a> to create temp mails for Exitlag.
 - Now open CMD and type `pip install websockets` to install the module.
 - After that type `python Downloads/main.py` or add the location if your files download somewhere else.
 - Type the account's email and press return.
